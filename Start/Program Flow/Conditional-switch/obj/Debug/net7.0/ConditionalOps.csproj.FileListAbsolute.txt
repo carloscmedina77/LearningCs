@@ -1,0 +1,15 @@
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.csproj.AssemblyReference.cache
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.AssemblyInfoInputs.cache
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.AssemblyInfo.cs
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.csproj.CoreCompileInputs.cache
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net7.0\ConditionalOps.exe
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net7.0\ConditionalOps.deps.json
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net7.0\ConditionalOps.runtimeconfig.json
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net7.0\ConditionalOps.dll
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net7.0\ConditionalOps.pdb
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.dll
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\refint\ConditionalOps.dll
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.pdb
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.genruntimeconfig.cache
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ref\ConditionalOps.dll

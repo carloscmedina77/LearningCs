@@ -1,0 +1,15 @@
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.exe
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.deps.json
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.runtimeconfig.json
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.dll
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.pdb
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.csproj.AssemblyReference.cache
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.AssemblyInfoInputs.cache
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.AssemblyInfo.cs
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.csproj.CoreCompileInputs.cache
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.dll
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\refint\MultiValues.dll
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.pdb
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.genruntimeconfig.cache
+C:\Users\Morga\Desktop\C#\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\MultiValues\obj\Debug\net7.0\ref\MultiValues.dll
